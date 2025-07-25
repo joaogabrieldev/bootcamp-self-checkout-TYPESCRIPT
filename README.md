@@ -36,8 +36,8 @@ Este projeto faz parte do estudo dos fundamentos de TypeScript, abordando desde 
 
 ## 📅 Evento
 
-> **{EVENTO AQUI SE TIVER}**  
-Preencha aqui o nome do evento, bootcamp ou curso relacionado.
+> **Bootcamp Self Checkout**  
+Realizado na plataforma Full Stack Club, aprendizado com o professor Felipe Rocha.
 
 ---
 
