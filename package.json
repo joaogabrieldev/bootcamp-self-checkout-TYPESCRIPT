@@ -1,0 +1,20 @@
+{
+  "name": "bootcamp-self-checkout-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "João Gabriel",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.2",
+    "@types/node": "^24.0.15",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "undici-types": "^7.8.0"
+  },
+  "description": ""
+}
